@@ -7,6 +7,8 @@ import java.sql.Date;
 import java.sql.ResultSet;
 import java.sql.Statement;
 
+
+// git test
 public class JdbcMain {
     public static void main(String[] args) {
         Connection conn = null;
